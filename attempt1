@@ -4,3 +4,6 @@ create table temp1 as
 select * from cfps2018adult_201909;
 
 libname d "d:/"
+
+
+libname d "d:/"
