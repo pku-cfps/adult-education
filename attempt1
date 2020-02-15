@@ -1,0 +1,4 @@
+
+proc sql;
+create table temp1 as
+select * from cfps2018adult_201909;
